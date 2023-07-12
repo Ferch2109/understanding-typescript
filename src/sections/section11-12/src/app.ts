@@ -2,7 +2,7 @@ import _ from 'lodash';
 import 'reflect-metadata';
 import { plainToInstance } from 'class-transformer';
 import { validate } from 'class-validator';
-import Product from './sections/section11-12/src/product.model';
+import Product from './product.model';
 
 // Declare tells typescript that the variable will exists
 // in case it is declared in other place (like in a script
